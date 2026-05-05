@@ -9,3 +9,7 @@ This repository contains my coursework and project submissions.
 ## Project 3
 - Part 1: Basic Attention Mechanism
 - Part 2: Multi-Head Attention
+
+## Project 5
+
+- [AI Agent Pipeline for LaTeX Project Compression](project5/)
